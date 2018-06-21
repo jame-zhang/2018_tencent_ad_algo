@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ub36192">
+    <serverData>
+      <paths name="3-1-local">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tencent_algo/final/Jame/data_preprocess" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="3-1-remote">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tencent_algo/final/Jame/data_preprocess" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="3-2">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lab@192.168.1.181:2026">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lab/Desktop/tencent_algo/final/Jame/data_preprocess" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lab@lab.jame-zhang.top:6000">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lab/Desktop/tencent_algo/final/Jame/data_preprocess" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tencent">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tencent_final/code/Jame" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ub36192">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/code/Jame" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ub36192@117.158.75.232:22036">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ub36192/tencent_final/code/Jame" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@118.25.104.242:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ubuntu/tencent_final/code/Jame" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

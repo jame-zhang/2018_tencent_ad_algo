@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="079f890e-c0ba-430e-ad22-1273c4586372" name="ub36192" url="http://117.158.75.232">
+        <fileTransfer host="117.158.75.232" port="22036" rootFolder="/home/ub36192/tencent_final" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22036" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

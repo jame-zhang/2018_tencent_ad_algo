@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/lgb_config/train_lgb_libsvm_tencent.config" line="92" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6052bf4c-f6bb-492f-b50f-34ade4b7bdd2" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/3_1_lgb$data_merge_en_jiahui_liang.coverage" NAME="data_merge_en_jiahui.liang Coverage Results" MODIFIED="1528459317147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feature_engineering" />
+    <SUITE FILE_PATH="coverage/3_1_lgb$gen_cvr_feature_ljh.coverage" NAME="gen_cvr_feature_ljh Coverage Results" MODIFIED="1528546454577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ljh" />
+    <SUITE FILE_PATH="coverage/3_1_lgb$csv_libsvm_new2_thread3.coverage" NAME="csv_libsvm_new2_thread3 Coverage Results" MODIFIED="1528700033353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3_1_lgb$csv_to_libsvm_new.coverage" NAME="csv_to_libsvm_new Coverage Results" MODIFIED="1528032716766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3_1_lgb$add3_jiahui.coverage" NAME="add3_jiahui Coverage Results" MODIFIED="1528604787873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feature_engineering" />
+    <SUITE FILE_PATH="coverage/3_1_lgb$data_manipulate.coverage" NAME="data_manipulate Coverage Results" MODIFIED="1528033177722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/" />
+    <SUITE FILE_PATH="coverage/3_1_lgb$auc_score.coverage" NAME="auc_score Coverage Results" MODIFIED="1528559699891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feature_engineering/offline_datasets" />
+    <SUITE FILE_PATH="coverage/3_1_lgb$csv_libsvm_new2.coverage" NAME="csv_libsvm_new2 Coverage Results" MODIFIED="1528808416279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3_1_lgb$csv_libsvm_new2_thread2.coverage" NAME="csv_libsvm_new2_thread2 Coverage Results" MODIFIED="1528700029803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3_1_lgb$lgb.coverage" NAME="lgb Coverage Results" MODIFIED="1528111815115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3_1_lgb$csv_libsvm_new2__1_.coverage" NAME="csv_libsvm_new2 (1) Coverage Results" MODIFIED="1528334986781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/3_1_lgb$csv_libsvm_new2__2_.coverage" NAME="csv_libsvm_new2 (2) Coverage Results" MODIFIED="1528335165813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
+    <SUITE FILE_PATH="coverage/3_1_lgb$temp.coverage" NAME="temp Coverage Results" MODIFIED="1528945010876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3_1_lgb$csv_to_libsvm.coverage" NAME="csv_to_libsvm Coverage Results" MODIFIED="1528029315107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3_1_lgb$predict_result_manipulate.coverage" NAME="predict_result_manipulate Coverage Results" MODIFIED="1528726129184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3_1_lgb$data_split_5_fold.coverage" NAME="data_split_5_fold Coverage Results" MODIFIED="1527820012856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3_1_lgb$libsvm_split.coverage" NAME="libsvm_split Coverage Results" MODIFIED="1528204422036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="3-1_lgb" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>open</find>
+      <find>../datasets</find>
+      <find>print(</find>
+      <find>interest3</find>
+      <find>test</find>
+      <find>init</find>
+      <find>num_leaves</find>
+      <find>objective</find>
+      <find>subsample_freq</find>
+      <find>learning_rate</find>
+      <find>min_child_weight</find>
+      <find>random_state</find>
+      <find>sta</find>
+      <find>bagging</find>
+      <find>boost</find>
+      <find>file</find>
+      <find>header</find>
+      <find>inpu</find>
+      <find>learning</find>
+      <find>for</find>
+      <find>sub</find>
+      <find>_libsvm</find>
+      <find>&quot;_libsvm&quot;</find>
+      <find>transform()</find>
+      <find>append</find>
+      <find>early</find>
+      <find>earl</find>
+      <find>numbers</find>
+      <find>analyzer</find>
+      <find>word</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>lgb_file</replace>
+      <replace>sub_add3</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/submission</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data_split_5_fold.py" />
+        <option value="$PROJECT_DIR$/baseline.py" />
+        <option value="$PROJECT_DIR$/csv_to_libsvm.py" />
+        <option value="&lt;3e077ccc-8fb7-4208-bd1f-a2a140e3319a&gt;/tencent_algo/final/Jame/lgb_sub/new.py" />
+        <option value="$PROJECT_DIR$/csv_to_libsvm_new.py" />
+        <option value="$PROJECT_DIR$/csv_to_libsvm_new2.py" />
+        <option value="$PROJECT_DIR$/csv_libsvm_new2_author.py" />
+        <option value="$PROJECT_DIR$/lgb_libsvm.py" />
+        <option value="&lt;cb3e53ac-800c-47e8-b905-3bc81f7f82b7&gt;/home/ubuntu/tencent_final/code/Jame/lgb_libsvm.config" />
+        <option value="$PROJECT_DIR$/demo/test_libsvm" />
+        <option value="&lt;cb3e53ac-800c-47e8-b905-3bc81f7f82b7&gt;/home/ubuntu/tencent_final/code/Jame/train_lgb_libsvm.config" />
+        <option value="$PROJECT_DIR$/demo/csv_libsvm_new2.py" />
+        <option value="$PROJECT_DIR$/libsvm_split.py" />
+        <option value="$PROJECT_DIR$/lgb.py" />
+        <option value="$PROJECT_DIR$/feature_engineering.py" />
+        <option value="$PROJECT_DIR$/debug/csv_libsvm_new2.py" />
+        <option value="&lt;cb3e53ac-800c-47e8-b905-3bc81f7f82b7&gt;/home/ubuntu/tencent_final/code/Jame/predict_lgb_libsvm.config" />
+        <option value="$PROJECT_DIR$/predict_lgb_libsvm.config" />
+        <option value="$PROJECT_DIR$/train_lgb_libsvm.config" />
+        <option value="$PROJECT_DIR$/feature_engineering/feature_engineering2.py" />
+        <option value="$PROJECT_DIR$/feature_engineering/T_cvr_final.ipynb" />
+        <option value="$PROJECT_DIR$/feature_engineering/feature_engineering_jiahui.py" />
+        <option value="$PROJECT_DIR$/feature_engineering/data_merge_en_jiahui.liang.py" />
+        <option value="$PROJECT_DIR$/Ljh/gen_cvr_feature_ljh.py" />
+        <option value="$PROJECT_DIR$/feature_engineering/feature_engineering.py" />
+        <option value="$PROJECT_DIR$/lgb_config/train_lgb_libsvm.config" />
+        <option value="$PROJECT_DIR$/feature_engineering/offline_datasets/lgb_config_sub/train_lgb_libsvm.config" />
+        <option value="$PROJECT_DIR$/feature_engineering/offline_datasets/lgb_config_sub/predict_lgb_libsvm.config" />
+        <option value="$PROJECT_DIR$/feature_engineering/offline_datasets/auc_score.py" />
+        <option value="&lt;cb3e53ac-800c-47e8-b905-3bc81f7f82b7&gt;/tencent_final/code/Jame/shell_command/add_run.sh" />
+        <option value="$PROJECT_DIR$/shell_command/add_run.sh" />
+        <option value="&lt;079f890e-c0ba-430e-ad22-1273c4586372&gt;/code/Jame/lgb_config/train_lgb_libsvm_ub.config" />
+        <option value="$PROJECT_DIR$/lgb_config/train_lgb_libsvm_ub.config" />
+        <option value="$PROJECT_DIR$/feature_engineering/add3_jiahui.py" />
+        <option value="$PROJECT_DIR$/lgb_config/train_lgb_libsvm_3-1.config" />
+        <option value="$PROJECT_DIR$/csv_libsvm_new2_thread3.py" />
+        <option value="$PROJECT_DIR$/csv_libsvm_new2_thread2.py" />
+        <option value="$PROJECT_DIR$/feature_engineering/feature_engineering2_data_merge.py" />
+        <option value="$PROJECT_DIR$/lgb_config/predict_lgb_libsvm.config" />
+        <option value="$PROJECT_DIR$/predict_result_manipulate.py" />
+        <option value="&lt;cb3e53ac-800c-47e8-b905-3bc81f7f82b7&gt;/tencent_final/code/Jame/lgb_config/train_lgb_libsvm_tencent.config" />
+        <option value="$PROJECT_DIR$/lgb_config/train_lgb_libsvm_tencent.config" />
+        <option value="$PROJECT_DIR$/csv_libsvm_new2.py" />
+        <option value="$PROJECT_DIR$/temp.py" />
+        <option value="$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/263363134/7854620/sklearn/feature_extraction/text.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="3-1_lgb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3-1_lgb" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/csv_libsvm_new2.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lgb_config" />
+      <recent name="$PROJECT_DIR$/feature_engineering/offline_datasets" />
+      <recent name="$PROJECT_DIR$/feature_engineering" />
+      <recent name="$PROJECT_DIR$/demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lgb_config" />
+      <recent name="$PROJECT_DIR$/demo" />
+      <recent name="$PROJECT_DIR$/debug" />
+      <recent name="$PROJECT_DIR$/feature_engineering" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.temp">
+    <configuration name="csv_libsvm_new2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="3-1_lgb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csv_libsvm_new2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="csv_libsvm_new2_thread2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="3-1_lgb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csv_libsvm_new2_thread2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="csv_libsvm_new2_thread3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="3-1_lgb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csv_libsvm_new2_thread3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="predict_result_manipulate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="3-1_lgb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict_result_manipulate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="3-1_lgb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.csv_libsvm_new2" />
+      <item itemvalue="Python.csv_libsvm_new2_thread3" />
+      <item itemvalue="Python.csv_libsvm_new2_thread2" />
+      <item itemvalue="Python.temp" />
+      <item itemvalue="Python.predict_result_manipulate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.csv_libsvm_new2" />
+        <item itemvalue="Python.predict_result_manipulate" />
+        <item itemvalue="Python.csv_libsvm_new2_thread3" />
+        <item itemvalue="Python.csv_libsvm_new2_thread2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6052bf4c-f6bb-492f-b50f-34ade4b7bdd2" name="Default" comment="" />
+      <created>1527817323210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527817323210</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917705" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50214595" side_tool="true" weight="0.32917705" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4985694" weight="0.32793018" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.3179551" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49928468" weight="0.12593517" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.10586552" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6009975" visible="true" weight="0.20100144" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3297568" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.3297568" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.3990025" side_tool="true" visible="true" weight="0.20100144" />
+      <window_info id="Favorites" order="2" sideWeight="0.504" side_tool="true" weight="0.18884121" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990025" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.2319202" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917705" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.config" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>remoteDeploymentFS://&lt;3e077ccc-8fb7-4208-bd1f-a2a140e3319a&gt;/data/data_manipulate.py</url>
+          <line>9</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.6/site-packages/sklearn/preprocessing/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="1893" selection-start-line="1893" selection-end-line="1893" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug/csv_libsvm_new2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lgb_libsvm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_split_5_fold.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="21" column="53" lean-forward="true" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_engineering/T_cvr_final.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baseline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="51" column="19" lean-forward="true" selection-start-line="16" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iioiio/train_test_split.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-809">
+          <caret line="95" column="14" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libsvm_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" selection-start-line="8" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ljh/gen_new_static_fea.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4857">
+          <caret line="229" column="25" selection-start-line="229" selection-start-column="25" selection-end-line="229" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ljh/gen_cvr_feature_ljh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="142" column="18" lean-forward="true" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_engineering/data_merge_en_jiahui.liang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2596">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_engineering/offline_datasets/auc_score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_engineering/offline_datasets/lgb_config_sub/predict_lgb_libsvm.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="105" selection-start-line="3" selection-start-column="105" selection-end-line="3" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shell_command/add_run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_engineering/offline_datasets/lgb_config_sub/train_lgb_libsvm.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lgb_config/train_lgb_libsvm_ub.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_engineering/add3_jiahui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="133" column="75" selection-start-line="133" selection-start-column="75" selection-end-line="133" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lgb_config/train_lgb_libsvm_3-1.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv_libsvm_new2_thread4.py" />
+    <entry file="file://$PROJECT_DIR$/feature_engineering/feature_engineering2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="57" selection-start-line="57" selection-end-line="57" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_engineering/feature_engineering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3047">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_engineering/feature_engineering2_data_merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv_libsvm_new2_thread2.py" />
+    <entry file="file://$PROJECT_DIR$/csv_libsvm_new2_thread3.py" />
+    <entry file="file://$PROJECT_DIR$/csv_to_libsvm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-296">
+          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv_to_libsvm_new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-626">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/test_feature_word_dic.dict">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/onetime/feature_word_dic.dict" />
+    <entry file="file://$PROJECT_DIR$/demo/feature_word_dic.dict" />
+    <entry file="file://$PROJECT_DIR$/demo/limited.dict">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/train.dict">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/train.libsvm">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="363">
+          <caret line="2677" column="105" lean-forward="true" selection-start-line="2677" selection-start-column="105" selection-end-line="2677" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/limited.libsvm">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="363">
+          <caret line="2677" column="105" lean-forward="true" selection-start-line="2677" selection-start-column="105" selection-end-line="2677" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lgb_config/predict_lgb_libsvm_tencent.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predict_result_manipulate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lgb_config/train_lgb_libsvm_tencent.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1429">
+          <caret line="115" column="14" selection-start-line="115" selection-start-column="14" selection-end-line="115" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.test" />
+    <entry file="file://$PROJECT_DIR$/lgb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="70" column="7" selection-start-line="70" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/263363134/-232349896/numbers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/263363134/-232349896/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="733">
+          <caret line="1841" column="10" selection-start-line="1841" selection-start-column="10" selection-end-line="1841" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.6/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="1732" column="10" selection-start-line="1732" selection-start-column="10" selection-end-line="1732" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/263363134/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="249" column="46" selection-start-line="249" selection-start-column="46" selection-end-line="249" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/263363134/7854620/sklearn/externals/six.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="438" column="44" selection-start-line="438" selection-start-column="38" selection-end-line="438" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/241520798/_collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="77" column="45" selection-start-line="77" selection-start-column="45" selection-end-line="77" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/263363134/7854620/sklearn/feature_extraction/stop_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/241520798/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="3355" column="8" selection-start-line="3355" selection-start-column="8" selection-end-line="3355" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="507" column="23" selection-start-line="507" selection-start-column="23" selection-end-line="507" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.6/site-packages/scipy/sparse/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4239" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/remote_sources/263363134/7854620/sklearn/feature_extraction/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1546">
+          <caret line="933" lean-forward="true" selection-start-line="933" selection-end-line="933" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv_libsvm_new2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3470">
+          <caret line="160" column="27" selection-start-line="160" selection-start-column="27" selection-end-line="160" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
