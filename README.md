@@ -53,6 +53,10 @@ lgb_libsvm下的代码是使用libsvm格式进行lgb训练和预测的代码，�
 #### ffm代码和deepfm
 > fm和ffm直接使用xlearn框架，deepfm是属于神经网络即深度学习那块的了，使用tensorflow或者pytorch 
 
-fm和ffm：ffm(filed Factorization Machines)是在fm的基础上改进的，学习资料[美团的技术博客](https://tech.meituan.com/deep-understanding-of-ffm-principles-and-practices.html)、fm([1](http://www.jame-zhang.top/assets/algo/Factorization-Machines-with-libFM.pdf)、[2](http://www.jame-zhang.top/assets/algo/Factorization-Machines-Rendle2010.pdf))和[ffm]()([1](http://www.jame-zhang.top/assets/algo/deep-fm1804.04950.pdf)、[2](http://www.jame-zhang.top/assets/algo/deepFM1703.04247.pdf))的论文，这个主要是辉哥整理的，由于我比较菜，所以到比赛结束了，fm和ffm我都没看，deepffm也一样
+fm和ffm：ffm(filed Factorization Machines)是在fm的基础上改进的，学习资料[美团的技术博客](https://tech.meituan.com/deep-understanding-of-ffm-principles-and-practices.html)、fm([1](http://www.jame-zhang.top/assets/algo/Factorization-Machines-with-libFM.pdf)、[2](http://www.jame-zhang.top/assets/algo/Factorization-Machines-Rendle2010.pdf))和[ffm]()([1](http://www.jame-zhang.top/assets/algo/deep-fm1804.04950.pdf)、[2](http://www.jame-zhang.top/assets/algo/deepFM1703.04247.pdf))的论文，这个主要是辉哥整理的，由于我比较菜，所以到比赛结束了，fm和ffm我都没看，deepffm也一样，后面再继续补充
+
+
+#### 后续
+特征工程：包括统计特征和组合特征，FFM和FM能够实现低阶组合特征，使用关联规则可以筛选出支持度比较高的特征（比赛结束才学习到）
 
 
